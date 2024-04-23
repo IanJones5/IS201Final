@@ -1,0 +1,29 @@
+P{
+    font-weight: Bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration:wavy
+}
+
+.emphasizedText{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f35d34;
+}
+
+body{
+    background-color: hsl(33, 74%, 73%);
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
